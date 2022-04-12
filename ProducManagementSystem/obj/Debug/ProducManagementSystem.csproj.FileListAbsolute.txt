@@ -1,0 +1,11 @@
+D:\5thSemester\APT\C# Programs\ProducManagementSystem\ProducManagementSystem\bin\Debug\ProducManagementSystem.exe.config
+D:\5thSemester\APT\C# Programs\ProducManagementSystem\ProducManagementSystem\bin\Debug\ProducManagementSystem.exe
+D:\5thSemester\APT\C# Programs\ProducManagementSystem\ProducManagementSystem\bin\Debug\ProducManagementSystem.pdb
+D:\5thSemester\APT\C# Programs\ProducManagementSystem\ProducManagementSystem\obj\Debug\ProducManagementSystem.csproj.AssemblyReference.cache
+D:\5thSemester\APT\C# Programs\ProducManagementSystem\ProducManagementSystem\obj\Debug\ProducManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\5thSemester\APT\C# Programs\ProducManagementSystem\ProducManagementSystem\obj\Debug\ProducManagementSystem.Form1.resources
+D:\5thSemester\APT\C# Programs\ProducManagementSystem\ProducManagementSystem\obj\Debug\ProducManagementSystem.Properties.Resources.resources
+D:\5thSemester\APT\C# Programs\ProducManagementSystem\ProducManagementSystem\obj\Debug\ProducManagementSystem.csproj.GenerateResource.cache
+D:\5thSemester\APT\C# Programs\ProducManagementSystem\ProducManagementSystem\obj\Debug\ProducManagementSystem.csproj.CoreCompileInputs.cache
+D:\5thSemester\APT\C# Programs\ProducManagementSystem\ProducManagementSystem\obj\Debug\ProducManagementSystem.exe
+D:\5thSemester\APT\C# Programs\ProducManagementSystem\ProducManagementSystem\obj\Debug\ProducManagementSystem.pdb

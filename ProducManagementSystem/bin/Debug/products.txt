@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProducts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Products>
+    <Product_ID>1</Product_ID>
+    <Product_Name>No Name</Product_Name>
+    <Product_Price>0</Product_Price>
+    <Produt_Quantity>0</Produt_Quantity>
+    <Product_ManufacturingDate>2022-03-23T18:03:51.4095119+05:00</Product_ManufacturingDate>
+    <Product_ExpiryDate>2022-03-23T18:03:51.4095119+05:00</Product_ExpiryDate>
+    <product_Weight>_10mg</product_Weight>
+    <ImageLocation>Null</ImageLocation>
+  </Products>
+  <Products>
+    <Product_ID>2</Product_ID>
+    <Product_Name>No Name</Product_Name>
+    <Product_Price>0</Product_Price>
+    <Produt_Quantity>0</Produt_Quantity>
+    <Product_ManufacturingDate>2022-03-23T18:04:08.9293226+05:00</Product_ManufacturingDate>
+    <Product_ExpiryDate>2022-03-23T18:04:08.9293226+05:00</Product_ExpiryDate>
+    <product_Weight>_10mg</product_Weight>
+    <ImageLocation>Null</ImageLocation>
+  </Products>
+</ArrayOfProducts>
